@@ -28,7 +28,8 @@ The dashboard combines a modern React frontend with a Python backend to provide 
 * 🔍 Dynamic Filters
 * 📥 Export Reports
 
----
+---<img width="1831" height="807" alt="Screenshot 2026-07-26 171529" src="https://github.com/user-attachments/assets/c0c42ad3-d2fe-4089-8a7d-495837ad4be7" />
+
 
 ## 🛠 Technology Stack
 
