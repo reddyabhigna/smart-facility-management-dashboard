@@ -30,7 +30,8 @@ The dashboard combines a modern React frontend with a Python backend to provide 
 * 📥 Export Reports
 
 ---
-<img width="1176" height="892" alt="Screenshot 2026-07-22 190324" src="https://github.com/user-attachments/assets/1d700407-288c-40d0-92f5-6f365a42aa9d" />
+<img width="1831" height="807" alt="Screenshot 2026-07-26 171529" src="https://github.com/user-attachments/assets/341b388a-ca11-4b2d-9305-afa86f518e27" />
+
 
 ## 🛠 Technology Stack
 
